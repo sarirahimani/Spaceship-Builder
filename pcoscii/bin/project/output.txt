@@ -1,0 +1,6 @@
+
+The spaceship 0 stats are:
+Weight: 2.870410375731922E8
+Cost: 8.611231127195766E8
+Velocity: 353723.729995799
+Duration of mission: 0.3018677253546035 Success: true
